@@ -22,3 +22,29 @@ chamada-texto{
 margin-right: 5px;
 
 }
+
+categoria{
+    padding-left: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+
+}
+
+categria video{
+    display: flex;
+    overflow: auto;
+    gap: 20px;
+
+
+}
+
+categoria video img{
+    height: 20px;
+    opacity: 0.5;
+
+}
+ categoria video img:hover{
+    opacity: 1.0;
+    border: 3px sold rebeccapurple;
+ }
+
